@@ -1,0 +1,11 @@
+Enter a name: Githa
+
+✅ Best Match:
+Githa (Score: 1.0000)
+
+📋 Top Similar Names:
+1. Githa - Score: 1.0000
+2. Gitu - Score: 0.5098
+3. Gita - Score: 0.4710
+4. Githika - Score: 0.4285
+5. Gitisha - Score: 0.3292
